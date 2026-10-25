@@ -1,6 +1,6 @@
 # PRD: Commitment Ledger, prototype v0
 
-Status: DRAFT, awaiting sign-off
+Status: APPROVED 2026-10-25 (D1 CLI+MCP, D2 TypeScript, D3 run model eval locally, D4 real Slack export + ICS to be supplied; D5 defaults to Edy first)
 Owner: Edy
 Date: 2026-10-25
 Source research: `reports/Productivity app gap research.md`
