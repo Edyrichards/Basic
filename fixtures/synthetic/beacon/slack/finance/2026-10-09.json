@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B3",
+    "text": "<@U_ME> could you introduce me to your contact at the payments provider? We want to renegotiate interchange.",
+    "ts": "1791555600.000100",
+    "user_profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791555600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Sure, I'll make the intro.",
+    "ts": "1791556033.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791555600.000100"
+  }
+]

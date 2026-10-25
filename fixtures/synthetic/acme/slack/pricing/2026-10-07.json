@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Quick one on the Q4 deck: the brand elasticity numbers are not refreshing until Wednesday night. Can I make that Friday instead of Thursday?",
+    "ts": "1791384000.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 2,
+    "thread_ts": "1791384000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Friday morning works, the trading call is Friday 2pm.",
+    "ts": "1791384433.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1791384000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Friday morning it is.",
+    "ts": "1791384866.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791384000.000100"
+  }
+]

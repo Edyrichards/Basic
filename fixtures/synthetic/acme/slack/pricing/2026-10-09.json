@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_A1> deck is in the shared drive: Q4_markdown_plan_v3.pdf. Sent you the summary by email too.",
+    "ts": "1791529500.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791529500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Got it, thank you. Looks good at first glance.",
+    "ts": "1791529933.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1791529500.000100"
+  }
+]

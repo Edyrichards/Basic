@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "If legal signs off on the price-matching policy, we need the margin impact sized. <@U_ME> can you own that?",
+    "ts": "1792156500.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792156500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, if legal signs off I'll size the margin impact of price matching.",
+    "ts": "1792156933.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792156500.000100"
+  }
+]

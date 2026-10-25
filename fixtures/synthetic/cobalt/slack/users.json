@@ -1,0 +1,47 @@
+[
+  {
+    "id": "U_ME",
+    "name": "edy.richardson",
+    "real_name": "Edy Richardson",
+    "profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    }
+  },
+  {
+    "id": "U_C1",
+    "name": "jonas.weber",
+    "real_name": "Jonas Weber",
+    "profile": {
+      "real_name": "Jonas Weber",
+      "display_name": "Jonas"
+    }
+  },
+  {
+    "id": "U_C2",
+    "name": "aisha.khan",
+    "real_name": "Aisha Khan",
+    "profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    }
+  },
+  {
+    "id": "U_C3",
+    "name": "marco.ricci",
+    "real_name": "Marco Ricci",
+    "profile": {
+      "real_name": "Marco Ricci",
+      "display_name": "Marco"
+    }
+  },
+  {
+    "id": "U_C4",
+    "name": "nina.sato",
+    "real_name": "Nina Sato",
+    "profile": {
+      "real_name": "Nina Sato",
+      "display_name": "Nina"
+    }
+  }
+]

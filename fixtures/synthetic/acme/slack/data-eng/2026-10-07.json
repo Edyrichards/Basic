@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_A2",
+    "text": "<@U_ME> could you review my PR on the margin model when you have a sec? It changes how we treat returns. No rush, sometime next week is fine.",
+    "ts": "1791363600.000100",
+    "user_profile": {
+      "real_name": "Tom Okafor",
+      "display_name": "Tom"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791363600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Sure, I'll review it next week.",
+    "ts": "1791364033.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791363600.000100"
+  }
+]

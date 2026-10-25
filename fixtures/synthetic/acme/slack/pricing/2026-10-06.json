@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Morning <@U_ME>. Leadership wants the Q4 markdown plan before the trading call. Can you get the pricing deck to me by Thursday?",
+    "ts": "1791274320.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "reply_count": 2,
+    "thread_ts": "1791274320.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, I'll send the Q4 pricing deck by Thursday EOD.",
+    "ts": "1791274753.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791274320.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Perfect, thanks.",
+    "ts": "1791275186.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1791274320.000100"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_B3",
+    "text": "Anyone up for lunch at the new ramen place Thursday?",
+    "ts": "1792058400.000100",
+    "user_profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    },
+    "reply_count": 2,
+    "thread_ts": "1792058400.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "In.",
+    "ts": "1792058833.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "thread_ts": "1792058400.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Can't, I'm at a client. Next time.",
+    "ts": "1792059266.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792058400.000100"
+  }
+]

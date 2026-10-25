@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_C1",
+    "text": "Northwind loved the report. They asked two follow-ups: 1) <@U_C3> Marco, can you put together a proposal for phase 2? 2) <@U_ME> they want a 30 minute walkthrough of the methodology with their analytics team. Can you schedule that for next week?",
+    "ts": "1792072800.000100",
+    "user_profile": {
+      "real_name": "Jonas Weber",
+      "display_name": "Jonas"
+    },
+    "reply_count": 2,
+    "thread_ts": "1792072800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C3",
+    "text": "I'll draft the phase 2 proposal.",
+    "ts": "1792073233.000100",
+    "user_profile": {
+      "real_name": "Marco Ricci",
+      "display_name": "Marco"
+    },
+    "thread_ts": "1792072800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, I'll set up the methodology walkthrough with their analytics team next week.",
+    "ts": "1792073666.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792072800.000100"
+  }
+]

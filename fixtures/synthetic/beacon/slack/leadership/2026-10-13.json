@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Maya, the CAC data from marketing is late. Realistically the unit economics section lands Friday the 16th, not the 15th. Ok?",
+    "ts": "1791883800.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791883800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B1",
+    "text": "Fine, 16th works, just not later.",
+    "ts": "1791884233.000100",
+    "user_profile": {
+      "real_name": "Maya Chen",
+      "display_name": "Maya"
+    },
+    "thread_ts": "1791883800.000100"
+  }
+]

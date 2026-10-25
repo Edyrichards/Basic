@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Two things. 1) Sam, can you pull the competitor price index for the top 200 SKUs? 2) <@U_ME> we need a proposal for the Black Friday discount ladder. Can you have a draft to me by the 20th?",
+    "ts": "1791796800.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "reply_count": 2,
+    "thread_ts": "1791796800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A4",
+    "text": "On it, will have the index tomorrow.",
+    "ts": "1791797233.000100",
+    "user_profile": {
+      "real_name": "Sam Reyes",
+      "display_name": "Sam"
+    },
+    "thread_ts": "1791796800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, draft discount ladder by the 20th.",
+    "ts": "1791797666.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791796800.000100"
+  }
+]

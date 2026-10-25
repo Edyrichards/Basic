@@ -1,0 +1,48 @@
+[
+  {
+    "type": "message",
+    "user": "U_C2",
+    "text": "<@U_ME> gentle nudge on the contractor agreement, I did not see it Friday.",
+    "ts": "1791795600.000100",
+    "user_profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791795600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Sorry, slipped. Sending it tonight.",
+    "ts": "1791796033.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791795600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_C2> signed agreement attached and emailed.",
+    "ts": "1791835800.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791835800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C2",
+    "text": "Got it, thanks.",
+    "ts": "1791836233.000100",
+    "user_profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    },
+    "thread_ts": "1791835800.000100"
+  }
+]

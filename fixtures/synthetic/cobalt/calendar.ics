@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//commitment-ledger fixtures//EN
+BEGIN:VEVENT
+UID:cobalt-nw-walkthrough-2026-10-23
+DTSTART:20261023T100000Z
+DTEND:20261023T103000Z
+SUMMARY:Northwind methodology walkthrough
+DESCRIPTION:Edy to walk Northwind analytics through the benchmark methodology.
+ATTENDEE;CN=Jonas Weber:mailto:jonas.weber@example.com
+ATTENDEE;CN=Edy Richardson:mailto:edy.richardson@example.com
+END:VEVENT
+BEGIN:VEVENT
+UID:cobalt-harbor-prep-2026-10-29
+DTSTART:20261029T150000Z
+DTEND:20261029T160000Z
+SUMMARY:Harbor Foods pitch prep
+DESCRIPTION:Nina leads. Edy: please have the dynamic pricing risk note ready for this.
+ATTENDEE;CN=Nina Sato:mailto:nina.sato@example.com
+ATTENDEE;CN=Edy Richardson:mailto:edy.richardson@example.com
+END:VEVENT
+END:VCALENDAR

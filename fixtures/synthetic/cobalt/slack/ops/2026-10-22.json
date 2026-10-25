@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C2",
+    "text": "<@U_ME> please submit your October expenses by EOD Friday, finance closes the books Monday.",
+    "ts": "1792669500.000100",
+    "user_profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792669500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Will submit October expenses by Friday.",
+    "ts": "1792669933.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792669500.000100"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_A3",
+    "text": "<@U_ME> can you send me the list of brands excluded from the elasticity model? Need it for the data quality doc.",
+    "ts": "1791975600.000100",
+    "user_profile": {
+      "real_name": "Lena Fischer",
+      "display_name": "Lena"
+    },
+    "reply_count": 2,
+    "thread_ts": "1791975600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Can't this week, I'm heads down on BF. <@U_A4> Sam has that list, can you share it with Lena?",
+    "ts": "1791976033.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791975600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A4",
+    "text": "Yep, sending now.",
+    "ts": "1791976466.000100",
+    "user_profile": {
+      "real_name": "Sam Reyes",
+      "display_name": "Sam"
+    },
+    "thread_ts": "1791975600.000100"
+  }
+]

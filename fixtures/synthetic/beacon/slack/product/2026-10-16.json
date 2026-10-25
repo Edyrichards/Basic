@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Looked at the A/B data. Variant B wins on conversion but loses on ARPU, net revenue roughly flat. My recommendation: do not ship B as is, test a B with the annual toggle default on.",
+    "ts": "1792152000.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792152000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "Makes sense, thanks for the clear call.",
+    "ts": "1792152433.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "thread_ts": "1792152000.000100"
+  }
+]

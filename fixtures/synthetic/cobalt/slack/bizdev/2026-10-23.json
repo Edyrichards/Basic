@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_C4> the two case studies for Harbor are in your inbox. A third one needs client approval, I'll chase it.",
+    "ts": "1792765800.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792765800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C4",
+    "text": "Two is enough for the first meeting, thank you.",
+    "ts": "1792766233.000100",
+    "user_profile": {
+      "real_name": "Nina Sato",
+      "display_name": "Nina"
+    },
+    "thread_ts": "1792765800.000100"
+  }
+]

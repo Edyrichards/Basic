@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "Can someone double check the FX rate we used for the EUR revenue in September? Looks off to me.",
+    "ts": "1791457200.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791457200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B3",
+    "text": "I'll look, I think we used month-end instead of average.",
+    "ts": "1791457633.000100",
+    "user_profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    },
+    "thread_ts": "1791457200.000100"
+  }
+]

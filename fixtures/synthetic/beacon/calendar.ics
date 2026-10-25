@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//commitment-ledger fixtures//EN
+BEGIN:VEVENT
+UID:beacon-board-2026-10-22
+DTSTART:20261022T140000Z
+DTEND:20261022T170000Z
+SUMMARY:Beacon board meeting
+DESCRIPTION:Board deck v4. Edy presents unit economics.
+ATTENDEE;CN=Maya Chen:mailto:maya.chen@example.com
+ATTENDEE;CN=Dev Patel:mailto:dev.patel@example.com
+ATTENDEE;CN=Edy Richardson:mailto:edy.richardson@example.com
+END:VEVENT
+BEGIN:VEVENT
+UID:beacon-standup-2026-10-26
+DTSTART:20261026T090000Z
+DTEND:20261026T091500Z
+SUMMARY:Product standup
+ATTENDEE;CN=Dev Patel:mailto:dev.patel@example.com
+ATTENDEE;CN=Edy Richardson:mailto:edy.richardson@example.com
+END:VEVENT
+END:VCALENDAR

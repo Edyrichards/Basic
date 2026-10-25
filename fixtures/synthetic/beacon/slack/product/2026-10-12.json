@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "<@U_ME> the pricing page A/B test results are in. Can you take a look and tell us whether to ship variant B? Need a call by end of week.",
+    "ts": "1791823500.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791823500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "I'll review the A/B results and give you a recommendation by Friday.",
+    "ts": "1791823933.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791823500.000100"
+  }
+]

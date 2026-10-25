@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B1",
+    "text": "<@U_ME> board meeting is on the 22nd. I need the unit economics section from you. Can you have it to me a week before, so by the 15th?",
+    "ts": "1791298800.000100",
+    "user_profile": {
+      "real_name": "Maya Chen",
+      "display_name": "Maya"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791298800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Will do, unit economics section to you by the 15th.",
+    "ts": "1791299233.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791298800.000100"
+  }
+]

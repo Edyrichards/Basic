@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C2",
+    "text": "<@U_ME> you still owe me the signed contractor agreement for the Northwind extension. Can you get it back to me by Friday?",
+    "ts": "1791454500.000100",
+    "user_profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791454500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Apologies, yes, signed agreement back to you by Friday.",
+    "ts": "1791454933.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791454500.000100"
+  }
+]

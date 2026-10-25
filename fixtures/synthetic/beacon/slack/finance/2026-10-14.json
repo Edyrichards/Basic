@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_B3> intro email sent, you're cc'd. Her name is Rachel.",
+    "ts": "1791964800.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791964800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B3",
+    "text": "Brilliant, thank you!",
+    "ts": "1791965233.000100",
+    "user_profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    },
+    "thread_ts": "1791964800.000100"
+  }
+]

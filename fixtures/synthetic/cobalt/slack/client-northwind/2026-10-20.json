@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Walkthrough with Northwind analytics is booked for Thursday 23rd at 10, invite sent to Jonas.",
+    "ts": "1792485000.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792485000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C1",
+    "text": "Saw it, thanks.",
+    "ts": "1792485433.000100",
+    "user_profile": {
+      "real_name": "Jonas Weber",
+      "display_name": "Jonas"
+    },
+    "thread_ts": "1792485000.000100"
+  }
+]

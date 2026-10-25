@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_C1> Northwind benchmark report delivered to their shared folder, PDF and the data appendix.",
+    "ts": "1791877200.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791877200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C1",
+    "text": "Excellent, they will be pleased.",
+    "ts": "1791877633.000100",
+    "user_profile": {
+      "real_name": "Jonas Weber",
+      "display_name": "Jonas"
+    },
+    "thread_ts": "1791877200.000100"
+  }
+]

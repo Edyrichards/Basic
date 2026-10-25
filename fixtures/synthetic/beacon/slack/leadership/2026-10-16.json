@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_B1> unit economics section is in the board deck, slides 14 to 19. Notes in the speaker notes.",
+    "ts": "1792173000.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792173000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B1",
+    "text": "Thanks Edy.",
+    "ts": "1792173433.000100",
+    "user_profile": {
+      "real_name": "Maya Chen",
+      "display_name": "Maya"
+    },
+    "thread_ts": "1792173000.000100"
+  }
+]

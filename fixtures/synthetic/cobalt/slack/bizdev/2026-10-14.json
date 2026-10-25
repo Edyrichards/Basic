@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C4",
+    "text": "<@U_ME> I'm pitching Harbor Foods next month. Could you send me two or three anonymised case studies from the pricing work? Whenever you get a chance before the 28th.",
+    "ts": "1791976800.000100",
+    "user_profile": {
+      "real_name": "Nina Sato",
+      "display_name": "Nina"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791976800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Sure, two or three anonymised case studies before the 28th.",
+    "ts": "1791977233.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791976800.000100"
+  }
+]

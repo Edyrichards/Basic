@@ -110,6 +110,15 @@ Roughly 7 to 8 build days before the dogfood week. Steps 1 and 2 come first on p
 
 Not decided here and deliberately deferred: pricing, hosting, OAuth order, company or product name.
 
+## 6a. Build log and deviations
+
+- 2026-10-25: steps 0 to 8 built and offline-tested. Oracle eval scores 100/100/0/0, proving the harness.
+- Deviation: fixture set is 41 Slack threads, 5 notes, 7 events, 19 labelled obligations, 19 negative threads, 2 injection threads. The PRD asked for roughly 80/15/40/120. Reason: hand-authored quality over volume for v0; grow it once real data shows which cases matter.
+- Deviation: `next week` as a deadline is resolved to the Friday of the following week. This is a labelling convention, not a fact about language; revisit with real data.
+- Deviation: ICS floating and TZID times are treated as UTC in v0.
+- Step 9 (model eval) not run in the build environment; no API key by decision D3. Edy runs `make eval` locally.
+- Design change surfaced by the oracle brief: rows with a pending close proposal are no longer nagged as overdue or given nudges; they wait for the user's accept.
+
 ## 7. Risks this prototype does not retire
 
 - Willingness to pay in the fractional segment. Needs 10 interviews, not code.

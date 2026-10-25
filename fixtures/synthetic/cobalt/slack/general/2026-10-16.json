@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C3",
+    "text": "New coffee machine in the kitchen. It has opinions.",
+    "ts": "1792141200.000100",
+    "user_profile": {
+      "real_name": "Marco Ricci",
+      "display_name": "Marco"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792141200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C4",
+    "text": "😂",
+    "ts": "1792141633.000100",
+    "user_profile": {
+      "real_name": "Nina Sato",
+      "display_name": "Nina"
+    },
+    "thread_ts": "1792141200.000100"
+  }
+]

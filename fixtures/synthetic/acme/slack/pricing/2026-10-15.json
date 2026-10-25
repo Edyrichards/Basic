@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Status on the discount ladder: working on it, have the first two tiers modelled. Still on track for the 20th.",
+    "ts": "1792080600.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792080600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Great.",
+    "ts": "1792081033.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1792080600.000100"
+  }
+]

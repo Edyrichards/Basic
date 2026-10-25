@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Reviewed the margin model PR, left comments. Approved with two small changes.",
+    "ts": "1792594800.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792594800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A2",
+    "text": "Thanks, merging after I fix those.",
+    "ts": "1792595233.000100",
+    "user_profile": {
+      "real_name": "Tom Okafor",
+      "display_name": "Tom"
+    },
+    "thread_ts": "1792594800.000100"
+  }
+]

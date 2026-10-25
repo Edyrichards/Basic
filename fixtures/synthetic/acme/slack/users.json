@@ -1,0 +1,47 @@
+[
+  {
+    "id": "U_ME",
+    "name": "edy.richardson",
+    "real_name": "Edy Richardson",
+    "profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    }
+  },
+  {
+    "id": "U_A1",
+    "name": "priya.nair",
+    "real_name": "Priya Nair",
+    "profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    }
+  },
+  {
+    "id": "U_A2",
+    "name": "tom.okafor",
+    "real_name": "Tom Okafor",
+    "profile": {
+      "real_name": "Tom Okafor",
+      "display_name": "Tom"
+    }
+  },
+  {
+    "id": "U_A3",
+    "name": "lena.fischer",
+    "real_name": "Lena Fischer",
+    "profile": {
+      "real_name": "Lena Fischer",
+      "display_name": "Lena"
+    }
+  },
+  {
+    "id": "U_A4",
+    "name": "sam.reyes",
+    "real_name": "Sam Reyes",
+    "profile": {
+      "real_name": "Sam Reyes",
+      "display_name": "Sam"
+    }
+  }
+]

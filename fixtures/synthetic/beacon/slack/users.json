@@ -1,0 +1,38 @@
+[
+  {
+    "id": "U_ME",
+    "name": "edy.richardson",
+    "real_name": "Edy Richardson",
+    "profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    }
+  },
+  {
+    "id": "U_B1",
+    "name": "maya.chen",
+    "real_name": "Maya Chen",
+    "profile": {
+      "real_name": "Maya Chen",
+      "display_name": "Maya"
+    }
+  },
+  {
+    "id": "U_B2",
+    "name": "dev.patel",
+    "real_name": "Dev Patel",
+    "profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    }
+  },
+  {
+    "id": "U_B3",
+    "name": "ola.adeyemi",
+    "real_name": "Ola Adeyemi",
+    "profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    }
+  }
+]

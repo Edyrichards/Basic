@@ -1,0 +1,36 @@
+[
+  {
+    "type": "message",
+    "user": "U_A2",
+    "text": "The margin table in BigQuery has nulls for about 4% of SKUs since the catalog migration. Anyone know why?",
+    "ts": "1791282600.000100",
+    "user_profile": {
+      "real_name": "Tom Okafor",
+      "display_name": "Tom"
+    },
+    "reply_count": 2,
+    "thread_ts": "1791282600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A3",
+    "text": "Probably the new supplier feed. I'll check the ingestion logs.",
+    "ts": "1791283033.000100",
+    "user_profile": {
+      "real_name": "Lena Fischer",
+      "display_name": "Lena"
+    },
+    "thread_ts": "1791282600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A2",
+    "text": "Thanks Lena.",
+    "ts": "1791283466.000100",
+    "user_profile": {
+      "real_name": "Tom Okafor",
+      "display_name": "Tom"
+    },
+    "thread_ts": "1791282600.000100"
+  }
+]

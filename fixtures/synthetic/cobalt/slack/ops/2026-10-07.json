@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C2",
+    "text": "Timesheets are due Friday. Please log Northwind hours under project code NW-2026.",
+    "ts": "1791376200.000100",
+    "user_profile": {
+      "real_name": "Aisha Khan",
+      "display_name": "Aisha"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791376200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_C3",
+    "text": "Done for me.",
+    "ts": "1791376633.000100",
+    "user_profile": {
+      "real_name": "Marco Ricci",
+      "display_name": "Marco"
+    },
+    "thread_ts": "1791376200.000100"
+  }
+]

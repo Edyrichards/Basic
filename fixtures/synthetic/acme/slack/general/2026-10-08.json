@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_A4",
+    "text": "Reminder: office is closed Monday for the public holiday. Enjoy the long weekend everyone.",
+    "ts": "1791460800.000100",
+    "user_profile": {
+      "real_name": "Sam Reyes",
+      "display_name": "Sam"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791460800.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A3",
+    "text": "🎉",
+    "ts": "1791461233.000100",
+    "user_profile": {
+      "real_name": "Lena Fischer",
+      "display_name": "Lena"
+    },
+    "thread_ts": "1791460800.000100"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C1",
+    "text": "<@U_ME> Northwind wants the retail benchmark report before their offsite on the 14th. Can you commit to the 13th?",
+    "ts": "1791277200.000100",
+    "user_profile": {
+      "real_name": "Jonas Weber",
+      "display_name": "Jonas"
+    },
+    "reply_count": 1,
+    "thread_ts": "1791277200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Committing to the 13th for the Northwind benchmark report.",
+    "ts": "1791277633.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1791277200.000100"
+  }
+]

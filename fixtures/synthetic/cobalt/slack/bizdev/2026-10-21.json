@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_C4",
+    "text": "Also, forwarding this from Harbor's CFO: 'Can your team share a view on dynamic pricing risks in grocery?' <@U_ME> is that something you could write a short note on, by the 30th?",
+    "ts": "1792598400.000100",
+    "user_profile": {
+      "real_name": "Nina Sato",
+      "display_name": "Nina"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792598400.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, I can write a short note on dynamic pricing risks in grocery by the 30th.",
+    "ts": "1792598833.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792598400.000100"
+  }
+]

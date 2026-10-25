@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "<@U_B3> Ola can you send me the September close pack?",
+    "ts": "1792587600.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792587600.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_B3",
+    "text": "Sent.",
+    "ts": "1792588033.000100",
+    "user_profile": {
+      "real_name": "Ola Adeyemi",
+      "display_name": "Ola"
+    },
+    "thread_ts": "1792587600.000100"
+  }
+]

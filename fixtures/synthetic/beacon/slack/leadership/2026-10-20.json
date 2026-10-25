@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B1",
+    "text": "After the board meeting I'd like a one-pager on the pricing experiment roadmap for Q1. <@U_ME> can you draft it? No hard deadline, early November is fine.",
+    "ts": "1792487400.000100",
+    "user_profile": {
+      "real_name": "Maya Chen",
+      "display_name": "Maya"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792487400.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Yes, I'll draft the Q1 pricing experiment roadmap one-pager for early November.",
+    "ts": "1792487833.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792487400.000100"
+  }
+]

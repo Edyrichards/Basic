@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_B2",
+    "text": "<@U_ME> following up on the A/B conversation: can you write up the annual-toggle test design so eng can scope it? Ideally before Monday standup.",
+    "ts": "1792683000.000100",
+    "user_profile": {
+      "real_name": "Dev Patel",
+      "display_name": "Dev"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792683000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "I'll write up the test design before Monday.",
+    "ts": "1792683433.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792683000.000100"
+  }
+]

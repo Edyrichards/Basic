@@ -1,0 +1,25 @@
+[
+  {
+    "type": "message",
+    "user": "U_A4",
+    "text": "Competitor index is refreshed weekly now, dashboard link in the channel topic.",
+    "ts": "1792663200.000100",
+    "user_profile": {
+      "real_name": "Sam Reyes",
+      "display_name": "Sam"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792663200.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Nice work Sam.",
+    "ts": "1792663633.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1792663200.000100"
+  }
+]

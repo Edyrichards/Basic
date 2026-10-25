@@ -1,0 +1,48 @@
+[
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "<@U_ME> finance moved the budget review up. Any chance the discount ladder draft can land Monday the 19th instead of the 20th? Even a rough version.",
+    "ts": "1792399500.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792399500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "Ok, I'll get you a rough version today.",
+    "ts": "1792399933.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "thread_ts": "1792399500.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_ME",
+    "text": "<@U_A1> rough discount ladder is here: BF_ladder_draft.xlsx. Three tiers, assumptions tab included.",
+    "ts": "1792431000.000100",
+    "user_profile": {
+      "real_name": "Edy Richardson",
+      "display_name": "Edy"
+    },
+    "reply_count": 1,
+    "thread_ts": "1792431000.000100"
+  },
+  {
+    "type": "message",
+    "user": "U_A1",
+    "text": "Received, thanks for turning it around.",
+    "ts": "1792431433.000100",
+    "user_profile": {
+      "real_name": "Priya Nair",
+      "display_name": "Priya"
+    },
+    "thread_ts": "1792431000.000100"
+  }
+]
